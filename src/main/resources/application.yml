@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    url: ${DATABASE_URL:jdbc:postgresql://localhost:5000/food_db2}
+    username: ${DB_USERNAME:carey2}
+    password: ${DB_PASSWORD:123456789}
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+
+jwt:
+  secret: ${JWT_SECRET:1234soleil}
+  expiration: 86400000 # 24 hours
+
+server:
+  port: 5000
+main:
+    allow-bean-definition-overriding: true

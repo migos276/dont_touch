@@ -1,0 +1,13 @@
+/home/migos/Bureau/Projetinf222/springBoot/project/src/main/java/com/foodapp/model/Image.java
+/home/migos/Bureau/Projetinf222/springBoot/project/src/main/java/com/foodapp/FoodApplication.java
+/home/migos/Bureau/Projetinf222/springBoot/project/src/main/java/com/foodapp/service/FoodService.java
+/home/migos/Bureau/Projetinf222/springBoot/project/src/main/java/com/foodapp/controller/FoodController.java
+/home/migos/Bureau/Projetinf222/springBoot/project/src/main/java/com/foodapp/repository/UserRepository.java
+/home/migos/Bureau/Projetinf222/springBoot/project/src/main/java/com/foodapp/model/Food.java
+/home/migos/Bureau/Projetinf222/springBoot/project/src/main/java/com/foodapp/model/FoodConsumption.java
+/home/migos/Bureau/Projetinf222/springBoot/project/src/main/java/com/foodapp/service/UserService.java
+/home/migos/Bureau/Projetinf222/springBoot/project/src/main/java/com/foodapp/controller/AuthController.java
+/home/migos/Bureau/Projetinf222/springBoot/project/src/main/java/com/foodapp/config/SecurityConfig.java
+/home/migos/Bureau/Projetinf222/springBoot/project/src/main/java/com/foodapp/repository/FoodRepository.java
+/home/migos/Bureau/Projetinf222/springBoot/project/src/main/java/com/foodapp/model/User.java
+/home/migos/Bureau/Projetinf222/springBoot/project/src/main/java/com/foodapp/model/Ingredient.java
